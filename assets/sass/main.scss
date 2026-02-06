@@ -303,20 +303,20 @@
 		@include vendor('background-image', 'linear-gradient(top, #008dad, #007b9d)');
 		display: inline-block;
 		padding: 15px 25px 15px 25px;
-		background-color: #007b9d;
+		background-color: #325c92;
 		border-radius: 10px;
 		text-transform: lowercase;
 		text-decoration: none;
 		color: #fff;
 		font-size: 1.2em;
 		letter-spacing: -1px;
-		border: solid 1px #006e8b;
+		border: solid 1px #325c92;
 		box-shadow: inset 0px 0px 0px 1px #18a8c8;
 
 		&:hover {
 			@include vendor('background-image', 'linear-gradient(top, #1b9fbe, #118eb1)');
-			background-color: #118eb1;
-			box-shadow: inset 0px 0px 0px 1px #3ecceb;
+			background-color:#325c92;
+			box-shadow: inset 0px 0px 0px 1px #325c92;
 		}
 	}
 
@@ -324,7 +324,7 @@
 
 	#header-wrapper {
 		@include vendor('background-image', 'linear-gradient(top, #008dab, #007294)');
-		background-color: #007294;
+		background-color:#325c92;
 	}
 
 	#header {
@@ -334,9 +334,9 @@
 		margin: 2.5% 0 2.5% 0;
 		padding: 0 40px 0 40px;
 		border-radius: 10px;
-		border: solid 1px #006e8b;
+		border: solid 1px #325c92;
 		box-shadow: inset 0px 0px 0px 1px #12a0bf, 0px 1px 4px 0px rgba(0, 0, 0, 0.1);
-		background-color: #007b9d;
+		background-color: #325c92;
 		height: 86px;
 
 		h1 {
