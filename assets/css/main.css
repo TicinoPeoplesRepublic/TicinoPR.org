@@ -1582,10 +1582,10 @@ input, select, textarea {
 				}
 
 				#header nav a:hover {
-					background-image: -moz-linear-gradient(top, #325c93, #325c92);
-					background-image: -webkit-linear-gradient(top, #325c93, #325c92);
-					background-image: -ms-linear-gradient(top, #325c93, #325c92);
-					background-image: linear-gradient(top, #325c93, #325c92);
+					background-image: -moz-linear-gradient(top, #325c92, #325c92);
+					background-image: -webkit-linear-gradient(top, #325c92, #325c92);
+					background-image: -ms-linear-gradient(top, #325c92, #325c92);
+					background-image: linear-gradient(top, #325c92, #325c92);
 					background-color: #325c92;
 					box-shadow: inset 0px 1px 5px 1px rgba(0, 0, 0, 0.05), 0px 0px 5px 1px rgba(255, 255, 255, 0.05);
 				}
@@ -1593,7 +1593,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner-wrapper {
-		background: #c8d2bc url(images/bg1.png);
+		background: #fff url(images/bg1.png);
 		padding: 2em 0;
 	}
 
