@@ -1502,12 +1502,12 @@ input, select, textarea {
 	}
 
 		.button:hover {
-			background-image: -moz-linear-gradient(top, #1b9fbe, #118eb1);
-			background-image: -webkit-linear-gradient(top, #1b9fbe, #118eb1);
-			background-image: -ms-linear-gradient(top, #1b9fbe, #118eb1);
-			background-image: linear-gradient(top, #1b9fbe, #118eb1);
+			background-image: -moz-linear-gradient(top, #325c92, #325c92);
+			background-image: -webkit-linear-gradient(top, #325c92, #325c92);
+			background-image: -ms-linear-gradient(top, #325c92, #325c92);
+			background-image: linear-gradient(top, #325c92, #325c92);
 			background-color: #118eb1;
-			box-shadow: inset 0px 0px 0px 1px #3ecceb;
+			box-shadow: inset 0px 0px 0px 1px ##325c92;
 		}
 
 /* Header */
