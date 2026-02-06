@@ -1484,21 +1484,21 @@ input, select, textarea {
 		}
 
 	.button {
-		background-image: -moz-linear-gradient(top, #008dad, #007b9d);
-		background-image: -webkit-linear-gradient(top, #008dad, #007b9d);
-		background-image: -ms-linear-gradient(top, #008dad, #007b9d);
-		background-image: linear-gradient(top, #008dad, #007b9d);
+		background-image: -moz-linear-gradient(top, #325c92, #325c92);
+		background-image: -webkit-linear-gradient(top, #325c92, #325c92);
+		background-image: -ms-linear-gradient(top, #325c92, #325c92);
+		background-image: linear-gradient(top, #325c92, #325c92);
 		display: inline-block;
 		padding: 15px 25px 15px 25px;
-		background-color: #007b9d;
+		background-color: #325c92;
 		border-radius: 10px;
 		text-transform: lowercase;
 		text-decoration: none;
 		color: #fff;
 		font-size: 1.2em;
 		letter-spacing: -1px;
-		border: solid 1px #006e8b;
-		box-shadow: inset 0px 0px 0px 1px #18a8c8;
+		border: solid 1px #325c92;
+		box-shadow: inset 0px 0px 0px 1px #325c92;
 	}
 
 		.button:hover {
