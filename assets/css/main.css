@@ -1513,11 +1513,11 @@ input, select, textarea {
 /* Header */
 
 	#header-wrapper {
-		background-image: -moz-linear-gradient(top, #008dab, #007294);
-		background-image: -webkit-linear-gradient(top, #008dab, #007294);
-		background-image: -ms-linear-gradient(top, #008dab, #007294);
-		background-image: linear-gradient(top, #008dab, #007294);
-		background-color: #007294;
+		background-image: -moz-linear-gradient(top, #008dab, #325c92);
+		background-image: -webkit-linear-gradient(top, #008dab, #325c92);
+		background-image: -ms-linear-gradient(top, #008dab, #325c92);
+		background-image: linear-gradient(top, #008dab, #325c92);
+		background-color: #325c92;
 	}
 
 	#header {
