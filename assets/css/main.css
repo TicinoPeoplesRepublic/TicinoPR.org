@@ -88,9 +88,9 @@ input, select, textarea {
 	body {
 		font-size: 13.5pt;
 		font-family: sans-serif;
-		background-color: ##fff;
+		background-color: #bdbdbd;
 		font-family: 'Ubuntu Condensed', sans-serif;
-		color: #fff;
+		color: #bdbdbd;
 		letter-spacing: -1px;
 	}
 
@@ -1644,14 +1644,14 @@ input, select, textarea {
 
 	#copyright {
 		text-align: center;
-		color: #A6A88F;
-		border-top: solid 1px #ced0b7;
+		color: #bdbdbd;
+		border-top: solid 1px #bdbdbd;
 		padding: 3em 0 0 0;
 		margin: 3em 0 0 0;
 	}
 
 		#copyright a {
-			color: #A6A88F;
+			color: #bdbdbd;
 		}
 
 /* Large */
