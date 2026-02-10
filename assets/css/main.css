@@ -88,9 +88,9 @@ input, select, textarea {
 	body {
 		font-size: 13.5pt;
 		font-family: sans-serif;
-		background-color: #e3e9dc;
+		background-color: ##fff;
 		font-family: 'Ubuntu Condensed', sans-serif;
-		color: #878e83;
+		color: #fff;
 		letter-spacing: -1px;
 	}
 
@@ -111,7 +111,7 @@ input, select, textarea {
 	}
 
 	h3, h4 {
-		color: #283121;
+		color: #fff;
 		margin-bottom: 0.5em;
 	}
 
