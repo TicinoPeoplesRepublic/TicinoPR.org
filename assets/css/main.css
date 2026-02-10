@@ -1644,14 +1644,14 @@ input, select, textarea {
 
 	#copyright {
 		text-align: center;
-		color: #bdbdbd;
-		border-top: solid 1px #bdbdbd;
+		color: #fff;
+		border-top: solid 1px #fff;
 		padding: 3em 0 0 0;
 		margin: 3em 0 0 0;
 	}
 
 		#copyright a {
-			color: #bdbdbd;
+			color: #fff;
 		}
 
 /* Large */
